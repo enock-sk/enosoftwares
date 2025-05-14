@@ -9,6 +9,7 @@ import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 import Pricing from "./pages/Pricing";
+import React from "react";
 
 const App: React.FC = () => {
   return (

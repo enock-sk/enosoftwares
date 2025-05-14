@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import React from "react";
 import { FaTwitter, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 const Footer: React.FC = () => {

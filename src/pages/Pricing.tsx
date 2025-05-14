@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import ReactGA from "react-ga";
 import { FaArrowRight } from "react-icons/fa";
+import React from "react";
 
 interface Package {
   name: string;

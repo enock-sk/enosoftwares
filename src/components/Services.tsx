@@ -1,4 +1,6 @@
 import { motion } from "framer-motion";
+import React from "react";
+import { JSX } from "react";
 import { FaLaptopCode, FaMobileAlt, FaTools } from "react-icons/fa";
 
 interface Service {

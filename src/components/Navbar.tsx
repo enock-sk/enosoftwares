@@ -2,6 +2,7 @@ import { Link, NavLink } from "react-router-dom";
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaBars, FaTimes } from "react-icons/fa";
+import React from "react";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

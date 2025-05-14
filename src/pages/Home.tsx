@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import Services from "../components/Services";
 import Portfolio from "../components/Portfolio";
 import ContactForm from "../components/ContactForm";
+import React from "react";
 
 const Home: React.FC = () => {
   return (

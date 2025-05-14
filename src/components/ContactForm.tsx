@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaEnvelope } from "react-icons/fa";
+import React from "react";
 
 interface FormData {
   name: string;

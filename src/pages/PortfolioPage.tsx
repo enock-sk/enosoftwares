@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet";
 import Portfolio from "../components/Portfolio";
+import React from "react";
 
 const PortfolioPage: React.FC = () => {
   return (

@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet";
 import ContactForm from "../components/ContactForm";
+import React from "react";
 
 const Contact: React.FC = () => {
   return (
