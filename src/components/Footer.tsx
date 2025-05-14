@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 text-center">
         <p>© 2025 Enosoftwares. All rights reserved.</p>
         <p className="mt-2">
-          Bomet, Kenya | info@enosoftwares.com | +254-123-456-789
+          Bomet, Kenya | ekiplangat64@gmail.com.com | +254-724-299-505
         </p>
         <div className="flex justify-center space-x-4 mt-4">
           <a
