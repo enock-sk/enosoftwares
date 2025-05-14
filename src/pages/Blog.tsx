@@ -18,14 +18,16 @@ const blogPosts: BlogPost[] = [
     slug: "why-bomet-needs-websites",
     title: "Why Bomet Businesses Need a Website in 2025",
     excerpt: "Boost your business in Bomet’s digital economy with a website.",
-    image: "https://via.placeholder.com/300", // Replace with /assets/web-dev.jpg
+    image:
+      "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // Replace with /assets/web-dev.jpg
     date: "2025-05-07",
   },
   {
     slug: "mobile-apps-for-smes",
     title: "Benefits of Mobile Apps for Kenyan SMEs",
     excerpt: "Streamline operations and engage customers with mobile apps.",
-    image: "https://via.placeholder.com/300", // Replace with /assets/mobile-app.jpg
+    image:
+      "https://images.unsplash.com/photo-1582004531564-50f300aae039?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // Replace with /assets/mobile-app.jpg
     date: "2025-05-01",
   },
 ];
